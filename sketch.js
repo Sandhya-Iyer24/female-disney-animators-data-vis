@@ -37,7 +37,7 @@ let resetTimer = 0;
 
 function preload() {
   data = loadTable("data.csv", "csv", "header");
-  background = loadImage("Assets/background.PNG"); // Load the bg image
+  background = loadImage("Assets/background.png"); // Load the bg image
   funFact1 = loadImage("Assets/ff1.PNG");
   funFact2 = loadImage("Assets/ff2.PNG");
   funFact3 = loadImage("Assets/ff3.PNG");
